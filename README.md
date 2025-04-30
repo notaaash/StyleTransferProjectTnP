@@ -4,6 +4,9 @@
 This project applies neural style transfer to blend the artistic style of one image with the content of another using a pre-trained TensorFlow Hub model. Users can control the strength of the style effect, creating visually unique and customizable images. This model works on the principle Johnson model.
 
 # How to use this?
+## Direct Web App
+Link to the Web app - https://styletransferprojecttnp-nu9fesxbrqu68klzqoksp3.streamlit.app/
+## Setup on a local machine
 0. Open the attached google colab notebook.
 1. Add your Style image
   > What is style image? It is the image from which the inspiration is taken.
